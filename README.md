@@ -7,7 +7,7 @@
 
 Advanced open-source intelligence reconnaissance tool with async scanning, 80+ platforms, and structured reporting.
 
-> **Legal:** For authorized, ethical, and lawful use only. Unauthorized use may violate CFAA, GDPR, CCPA, and local laws.
+> **Legal:** For authorized, ethical, and lawful use only.
 
 
 ## Requirements
