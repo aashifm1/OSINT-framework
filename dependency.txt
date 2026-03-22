@@ -1,0 +1,4 @@
+aiohttp
+rich 
+dnspython
+python-whois
